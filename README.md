@@ -1,5 +1,7 @@
 # student
 
+![](student_firebase.gif)
+
 A new Flutter project.
 
 ## Getting Started
